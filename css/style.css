@@ -75,7 +75,7 @@ section{
 .home-image img {
     width: 30vw;
     animation: floatImage 4s ease-in-out;
-     border-radius: 50%;
+     
 }
 }
 @keyframes floatImage {
@@ -396,6 +396,7 @@ span {
     .home-image img {
         width: 70vw;
         margin: 4rem;
+        border-radius: 50%;
     }
     .about {
         flex-direction: column-reverse;
